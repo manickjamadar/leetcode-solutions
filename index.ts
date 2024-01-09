@@ -1,3 +1,5 @@
-import countArrayToMap from "./helpers/countArrayToMap";
+import reverseWords from "./solutions/151. Reverse Words in a String/151. Reverse Words in a String";
 
-console.log(countArrayToMap([2, 3, 5, 6, 2, 4, 2, 4, 2]));
+console.log(reverseWords("the sky is blue"));
+console.log(reverseWords("  hello world  "));
+console.log(reverseWords("a good   example"));
