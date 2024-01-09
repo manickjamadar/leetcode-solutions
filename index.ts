@@ -1,5 +1,3 @@
-import reverseWords from "./solutions/151. Reverse Words in a String/151. Reverse Words in a String";
+import containsDuplicate from "./solutions/217. Contains Duplicate/217. Contains Duplicate";
 
-console.log(reverseWords("the sky is blue"));
-console.log(reverseWords("  hello world  "));
-console.log(reverseWords("a good   example"));
+console.log(containsDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2]));
