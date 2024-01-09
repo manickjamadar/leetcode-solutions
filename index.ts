@@ -1,3 +1,5 @@
-import containsDuplicate from "./solutions/217. Contains Duplicate/217. Contains Duplicate";
+import isPrefixString from "./solutions/1961. Check If String Is a Prefix of Array/1961. Check If String Is a Prefix of Array";
 
-console.log(containsDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2]));
+console.log(
+  isPrefixString("iloveleetcode", ["i", "love", "leetcode", "apples"])
+);
